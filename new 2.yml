@@ -1,0 +1,17 @@
+playerpos: [1, 1, 0]
+board: [[b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b], 
+        [b, a, a, a, a, aa, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, ab, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, a, a, a, a, a, a, a, a, a, a, a, a, a, a, b],
+        [b, b, b, b, b, b, b, b, b, b, b, b, b, b, b, b]]
